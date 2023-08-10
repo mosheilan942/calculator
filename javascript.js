@@ -65,5 +65,6 @@ button.addEventListener("click", (e) => {
 
 // console.log(secondarray);
 // console.log(firstarray);
-
-
+// console.log(firstarray);
+// console.log(firstarray);
+// console.log(firstarray);
